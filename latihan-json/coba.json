@@ -1,0 +1,30 @@
+[
+{
+    "nama" : "Hans",
+    "umur" : 20,
+    "npm" : "12119740",
+    "lulus": true,
+    "hobi":[
+        "coding",
+        "gaming"
+    ],
+    "pembimbing":{
+        "pembimbing1": "John Cena",
+        "pembimbing2": "The Rock"
+    }
+},
+{
+    "nama" : "Hans",
+    "umur" : 20,
+    "npm" : "12119740",
+    "lulus": true,
+    "hobi":[
+        "coding",
+        "gaming"
+    ],
+    "pembimbing":{
+        "pembimbing1": "John Cena",
+        "pembimbing2": "The Rock"
+    }
+}
+]
